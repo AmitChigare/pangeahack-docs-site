@@ -5,7 +5,7 @@ slug: /
 
 # Safekey
 
-Submission for pangea hackathon
+Submission for pangea hackathon...
 
 # Encryption and Decryption Script
 
